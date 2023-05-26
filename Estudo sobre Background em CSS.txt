@@ -1,0 +1,8 @@
+Estudo sobre Background em CSS
+
+
+Background-attachment 
+fixed - deixar a imagem fixa mesmo rolando o conteudo
+
+shorthand em Background 
+color > image > position > repeat > [size] attachment 
